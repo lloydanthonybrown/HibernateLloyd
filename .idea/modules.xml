@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HibernateLloyd.iml" filepath="$PROJECT_DIR$/HibernateLloyd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibernateLloyd/hibernateLloyd.iml" filepath="$PROJECT_DIR$/hibernateLloyd/hibernateLloyd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaAlberto/javaAlberto.iml" filepath="$PROJECT_DIR$/javaAlberto/javaAlberto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaBarney/javaBarney.iml" filepath="$PROJECT_DIR$/javaBarney/javaBarney.iml" />
     </modules>
   </component>
 </project>
