@@ -1,5 +1,3 @@
-package com.doing.more.java.example;
-
 import org.hibernate.Query;
 import org.hibernate.Session;
 import org.hibernate.Transaction;

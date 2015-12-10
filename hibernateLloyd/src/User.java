@@ -1,8 +1,3 @@
-package com.doing.more.java.example;/*
- * The Many-To-Many relationship between User and PhoneNumber objects requires two tables
- * app_user and phone_number with a transition table user_number that maps phone numbers to users.
- * The @ManyToMany annotation shows how to make the User object aware of its phone numbers.
- */
 import java.util.Set;
 import javax.persistence.CascadeType;
 import javax.persistence.Entity;
